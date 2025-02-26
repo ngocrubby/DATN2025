@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "67b9e92a4e6c6b4fe69aa27c"
+  },
+  "name": "Giày Nike Air Force 1",
+  "brand": "Nike",
+  "category": {
+    "$oid": "67b9e6204e6c6b4fe69aa260"
+  },
+  "variants": [
+    {
+      "color": [
+        "Trắng"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://tuvanmuasam.com/wp-content/uploads/2022/07/giay-trang-nam-1.jpg",
+        "https://img.websosanh.vn/v10/users/review/images/br1a1k1t4lynq/giay-nam-sneaker.jpg?compress=85"
+      ],
+      "price": 300000,
+      "countInStock": 15,
+      "_id": {
+        "$oid": "67b9e92a4e6c6b4fe69aa27d"
+      }
+    },
+    {
+      "color": [
+        "Đen"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://product.hstatic.net/200000033050/product/giay-xp-de-do_fce6e64571c74f1db250bb774e175e8c_1024x1024.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e92a4e6c6b4fe69aa27e"
+      }
+    },
+    {
+      "color": [
+        "Đỏ"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/11/giay-the-thao-nam-nike-metcon-9-dz2617-600-mau-do-6565b5bb0dcc2-28112023164115.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e92a4e6c6b4fe69aa27f"
+      }
+    }
+  ],
+  "description": "Giày Thể Thao Cao Cấp – Phong Cách & Thoải Mái\n🔹 Thiết kế hiện đại, năng động: Giày được thiết kế theo xu hướng mới nhất, phù hợp cho cả nam và nữ, dễ dàng phối hợp với nhiều phong cách thời trang khác nhau.\n\n🔹 Chất liệu cao cấp: Sử dụng vải lưới thoáng khí giúp chân luôn khô ráo, kết hợp với đế cao su bền bỉ, chống trơn trượt hiệu quả.\n\n🔹 Êm ái, thoải mái suốt ngày dài: Đệm lót êm ái, nâng đỡ bàn chân tối đa, giúp bạn di chuyển linh hoạt mà không gây đau nhức.\n\n🔹 Phù hợp nhiều hoạt động: Dễ dàng sử dụng cho nhiều mục đích khác nhau như đi học, đi làm, tập gym, chạy bộ hay dạo phố.\n\n🔹 Màu sắc đa dạng, thời thượng: Có nhiều màu sắc và size khác nhau, đáp ứng mọi nhu cầu của người dùng.",
+  "createdAt": {
+    "$date": "2025-02-22T15:11:38.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:11:38.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e9434e6c6b4fe69aa288"
+  },
+  "name": "Giày Nike Air Force 1",
+  "brand": "Nike",
+  "category": {
+    "$oid": "67b9e6724e6c6b4fe69aa264"
+  },
+  "variants": [
+    {
+      "color": [
+        "Trắng"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://tuvanmuasam.com/wp-content/uploads/2022/07/giay-trang-nam-1.jpg",
+        "https://img.websosanh.vn/v10/users/review/images/br1a1k1t4lynq/giay-nam-sneaker.jpg?compress=85"
+      ],
+      "price": 3000000,
+      "countInStock": 15,
+      "_id": {
+        "$oid": "67b9e9434e6c6b4fe69aa289"
+      }
+    },
+    {
+      "color": [
+        "Đen"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://product.hstatic.net/200000033050/product/giay-xp-de-do_fce6e64571c74f1db250bb774e175e8c_1024x1024.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9434e6c6b4fe69aa28a"
+      }
+    },
+    {
+      "color": [
+        "Đỏ"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/11/giay-the-thao-nam-nike-metcon-9-dz2617-600-mau-do-6565b5bb0dcc2-28112023164115.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9434e6c6b4fe69aa28b"
+      }
+    }
+  ],
+  "description": "Giày thể thao phong cách, phù hợp với nhiều trang phục",
+  "createdAt": {
+    "$date": "2025-02-22T15:12:03.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:12:03.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e9564e6c6b4fe69aa28f"
+  },
+  "name": "Giày Nike Air Force 1",
+  "brand": "Nike",
+  "category": {
+    "$oid": "67b9e69c4e6c6b4fe69aa266"
+  },
+  "variants": [
+    {
+      "color": [
+        "Trắng"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://tuvanmuasam.com/wp-content/uploads/2022/07/giay-trang-nam-1.jpg",
+        "https://img.websosanh.vn/v10/users/review/images/br1a1k1t4lynq/giay-nam-sneaker.jpg?compress=85"
+      ],
+      "price": 3000000,
+      "countInStock": 15,
+      "_id": {
+        "$oid": "67b9e9564e6c6b4fe69aa290"
+      }
+    },
+    {
+      "color": [
+        "Đen"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://product.hstatic.net/200000033050/product/giay-xp-de-do_fce6e64571c74f1db250bb774e175e8c_1024x1024.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9564e6c6b4fe69aa291"
+      }
+    },
+    {
+      "color": [
+        "Đỏ"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/11/giay-the-thao-nam-nike-metcon-9-dz2617-600-mau-do-6565b5bb0dcc2-28112023164115.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9564e6c6b4fe69aa292"
+      }
+    }
+  ],
+  "description": "Giày thể thao phong cách, phù hợp với nhiều trang phục",
+  "createdAt": {
+    "$date": "2025-02-22T15:12:22.196Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:12:22.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e9574e6c6b4fe69aa295"
+  },
+  "name": "Giày Nike Air Force 1",
+  "brand": "Nike",
+  "category": {
+    "$oid": "67b9e69c4e6c6b4fe69aa266"
+  },
+  "variants": [
+    {
+      "color": [
+        "Trắng"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://tuvanmuasam.com/wp-content/uploads/2022/07/giay-trang-nam-1.jpg",
+        "https://img.websosanh.vn/v10/users/review/images/br1a1k1t4lynq/giay-nam-sneaker.jpg?compress=85"
+      ],
+      "price": 3000000,
+      "countInStock": 15,
+      "_id": {
+        "$oid": "67b9e9574e6c6b4fe69aa296"
+      }
+    },
+    {
+      "color": [
+        "Đen"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://product.hstatic.net/200000033050/product/giay-xp-de-do_fce6e64571c74f1db250bb774e175e8c_1024x1024.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9574e6c6b4fe69aa297"
+      }
+    },
+    {
+      "color": [
+        "Đỏ"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/11/giay-the-thao-nam-nike-metcon-9-dz2617-600-mau-do-6565b5bb0dcc2-28112023164115.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9574e6c6b4fe69aa298"
+      }
+    }
+  ],
+  "description": "Giày thể thao phong cách, phù hợp với nhiều trang phục",
+  "createdAt": {
+    "$date": "2025-02-22T15:12:23.415Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:12:23.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e9604e6c6b4fe69aa29b"
+  },
+  "name": "Giày Nike Air Force 1",
+  "brand": "Nike",
+  "category": {
+    "$oid": "67b9e6204e6c6b4fe69aa260"
+  },
+  "variants": [
+    {
+      "color": [
+        "Trắng"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://tuvanmuasam.com/wp-content/uploads/2022/07/giay-trang-nam-1.jpg",
+        "https://img.websosanh.vn/v10/users/review/images/br1a1k1t4lynq/giay-nam-sneaker.jpg?compress=85"
+      ],
+      "price": 3000000,
+      "countInStock": 15,
+      "_id": {
+        "$oid": "67b9e9604e6c6b4fe69aa29c"
+      }
+    },
+    {
+      "color": [
+        "Đen"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://product.hstatic.net/200000033050/product/giay-xp-de-do_fce6e64571c74f1db250bb774e175e8c_1024x1024.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9604e6c6b4fe69aa29d"
+      }
+    },
+    {
+      "color": [
+        "Đỏ"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/11/giay-the-thao-nam-nike-metcon-9-dz2617-600-mau-do-6565b5bb0dcc2-28112023164115.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9604e6c6b4fe69aa29e"
+      }
+    }
+  ],
+  "description": "Giày thể thao phong cách, phù hợp với nhiều trang phục",
+  "createdAt": {
+    "$date": "2025-02-22T15:12:32.877Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:12:32.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e9664e6c6b4fe69aa2a1"
+  },
+  "name": "Giày Nike Air Force 1",
+  "brand": "Nike",
+  "category": {
+    "$oid": "67b9e6724e6c6b4fe69aa264"
+  },
+  "variants": [
+    {
+      "color": [
+        "Trắng"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://tuvanmuasam.com/wp-content/uploads/2022/07/giay-trang-nam-1.jpg",
+        "https://img.websosanh.vn/v10/users/review/images/br1a1k1t4lynq/giay-nam-sneaker.jpg?compress=85"
+      ],
+      "price": 3000000,
+      "countInStock": 15,
+      "_id": {
+        "$oid": "67b9e9664e6c6b4fe69aa2a2"
+      }
+    },
+    {
+      "color": [
+        "Đen"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://product.hstatic.net/200000033050/product/giay-xp-de-do_fce6e64571c74f1db250bb774e175e8c_1024x1024.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9664e6c6b4fe69aa2a3"
+      }
+    },
+    {
+      "color": [
+        "Đỏ"
+      ],
+      "size": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "images": [
+        "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/11/giay-the-thao-nam-nike-metcon-9-dz2617-600-mau-do-6565b5bb0dcc2-28112023164115.jpg"
+      ],
+      "price": 3100000,
+      "countInStock": 10,
+      "_id": {
+        "$oid": "67b9e9664e6c6b4fe69aa2a4"
+      }
+    }
+  ],
+  "description": "Giày thể thao phong cách, phù hợp với nhiều trang phục",
+  "createdAt": {
+    "$date": "2025-02-22T15:12:38.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:12:38.355Z"
+  },
+  "__v": 0
+}]
