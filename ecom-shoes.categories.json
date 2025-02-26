@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "67b9e6204e6c6b4fe69aa260"
+  },
+  "name": "Giày Nam",
+  "description": "Chuyên giày thể thao chất lượng cao",
+  "image": "https://vn-test-11.slatic.net/p/865054feb6f0e5ab4ca06e9381a9e596.jpg",
+  "createdAt": {
+    "$date": "2025-02-22T14:58:40.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:58:40.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e6724e6c6b4fe69aa264"
+  },
+  "name": "Giày Nữ",
+  "description": "Chuyên giày thể thao chất lượng cao",
+  "image": "https://media3.scdn.vn/img4/2022/05_12/WY2Vw8cDUh8ZQJdYZceZ.jpg",
+  "createdAt": {
+    "$date": "2025-02-22T15:00:02.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:00:02.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e69c4e6c6b4fe69aa266"
+  },
+  "name": "Giày Unisex",
+  "description": "Chuyên giày thể thao chất lượng cao",
+  "image": "https://chiaki.vn/upload/product/2022/09/giay-unisex-mlb-chunky-liner-new-york-yankees-3asxca12n-50ivs-631aabb276aed-09092022095754.jpg",
+  "createdAt": {
+    "$date": "2025-02-22T15:00:44.472Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:00:44.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e7144e6c6b4fe69aa26d"
+  },
+  "name": "Giày Chạy Bộ",
+  "description": "Chuyên giày thể thao chất lượng cao",
+  "image": "http://runningshoes.vn/wp-content/uploads/2020/12/Nike_Zoom_Pegasus_37.jpg",
+  "createdAt": {
+    "$date": "2025-02-22T15:02:44.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:02:44.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e7394e6c6b4fe69aa26f"
+  },
+  "name": "Giày Sneaker",
+  "description": "Chuyên giày thể thao chất lượng cao",
+  "image": "https://cf.shopee.vn/file/8d5cd186604fb93560c96eed5cce7231",
+  "createdAt": {
+    "$date": "2025-02-22T15:03:21.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:03:21.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e7764e6c6b4fe69aa275"
+  },
+  "name": "Giày Da",
+  "description": "Chuyên giày thể thao chất lượng cao",
+  "image": "http://www.sohada.vn/wp-content/uploads/2023/03/O1CN01uDvIHV1DxerxAA4ot1712070283-0-cib.jpg",
+  "createdAt": {
+    "$date": "2025-02-22T15:04:22.557Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T19:20:36.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bdf4a6e64a3a624af48ed1"
+  },
+  "name": "Giày Da Nữ",
+  "description": "Chuyên giày thể thao chất lượng cao",
+  "image": "http://www.sohada.vn/wp-content/uploads/2023/03/O1CN01uDvIHV1DxerxAA4ot1712070283-0-cib.jpg",
+  "createdAt": {
+    "$date": "2025-02-25T16:49:42.452Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T16:49:42.452Z"
+  },
+  "__v": 0
+}]
